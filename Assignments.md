@@ -2,22 +2,22 @@
 
 # 1 Certification Requirement
 > - AI Fluency for Students
->
-> Kindly submit the verification link here 
+>   http://verify.skilljar.com/c/gtpw9e36699z
+> 
 > - Introduction to Agent Skills
->
-> Kindly submit the verification link here
+>   http://verify.skilljar.com/c/7akmu3td8vmt
+> 
 > 
 > Kindly upload the certifications PDF in Google Drive Link
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
 >
-> - Kindly submit the GitHub Repo URL
+> - (https://github.com/343GAUTAMVIJAY/one-credit-course)
 >
-> - Kindly submit the Vercel Deployment URL
+> - (https://portfolio2-five-amber.vercel.app/)
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - (https://github.com/343GAUTAMVIJAY/one-credit-course/blob/main/README.md)
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application

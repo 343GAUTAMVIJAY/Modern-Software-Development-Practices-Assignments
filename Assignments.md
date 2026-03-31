@@ -22,11 +22,11 @@
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> - Kindly submit the GitHub Repo URL
+> - https://github.com/Harikarthick28/meeko_web_app
 >
-> - Kindly submit the Live Application URL (Domain)
+> - https://meeko-song-player.web.app/
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - https://harikarthick28.github.io/meeko_web_app/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL

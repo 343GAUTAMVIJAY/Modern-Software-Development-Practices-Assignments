@@ -31,7 +31,7 @@
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-> [LinkedIn post URL]
+> (https://www.linkedin.com/feed/update/urn:li:ugcPost:7444967711480180737/)
 
 ## For Second Year Buddies
 
